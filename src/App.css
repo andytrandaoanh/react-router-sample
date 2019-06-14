@@ -3,11 +3,7 @@
 	text-align: center;
 }
 
-header:after {
-	content: " |";
-	display: table;
-	clear: both;
-}
+
 
 header ul {
 	list-style: none;
